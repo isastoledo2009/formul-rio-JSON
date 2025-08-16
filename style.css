@@ -1,0 +1,39 @@
+#nome{
+    color: #000000;
+}
+
+body{
+    
+    color: wheat;
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: x-large;
+    background-color:#662323;
+    
+}
+
+h1 {
+    text-align: center;
+    color:#662323;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font: 50px;
+background-color: bisque;
+}
+
+button {
+    background-color: bisque;
+    font-size: xx-large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: #421616;
+    border-width: 50;
+    color: #662323;
+}
+
+input {
+    width: 500px;
+    height: 20px;
+}
+
+img{
+    height:min-content;
+    width: 70px;
+}
